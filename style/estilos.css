@@ -13,3 +13,15 @@ ul {
   justify-content: space-between;
   padding: 10px;
 }
+.mainButon {
+  background-color: darkcyan;
+  color: ghostwhite;
+  border: 0px;
+  padding: 5px, 10px;
+  border-radius: 10px;
+  font-weight: bolder;
+  box-shadow: 1px 1px pink;
+}
+.mainButon:hover {
+  cursor: pointer;
+}
