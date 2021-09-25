@@ -6,3 +6,5 @@ function RhodesianInfoPage(){
 
 
 }
+
+export default RhodesianInfoPage;
