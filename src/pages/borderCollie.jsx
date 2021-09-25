@@ -1,15 +1,10 @@
-import React from 'react'
-import Layout from '../layouts/Layout'
 
-const BorderCollie = () => {
-    return (
-        <Layout>
-            <div>
-                informacion sobre borderCollie
-            </div>
-        </Layout>
+function BorderCollieInfoPage(){
+    return(
         
+        <div>está es la página de la informacion de Border Collie</div>
+       
     );
 }
 
-export default BorderCollie;
+export default BorderCollieInfoPage;
