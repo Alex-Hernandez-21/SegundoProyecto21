@@ -1,7 +1,15 @@
-function BorderCollieInfoPage(){
-    return(
-        <div>está es la página de la informacion de borderCollie</div>
+import React from 'react'
+import Layout from '../layouts/Layout'
+
+const BorderCollie = () => {
+    return (
+        <Layout>
+            <div>
+                informacion sobre borderCollie
+            </div>
+        </Layout>
+        
     );
 }
 
-export default BorderCollieInfoPage;
+export default BorderCollie;
