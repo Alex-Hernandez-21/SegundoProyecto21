@@ -1,7 +1,7 @@
 
 import './styles/styles.css';
 import Index from './pages';
-import { BrowserRouter as Router,  Switch,  Route,  Link} from "react-router-dom"; 
+import { BrowserRouter as Router,  Switch,  Route} from "react-router-dom"; 
 import RhodesianInfoPage from './pages/rhodesian';
 
 
