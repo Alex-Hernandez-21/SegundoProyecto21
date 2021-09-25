@@ -7,7 +7,19 @@ ul {
   padding: 0px;
   margin: 0px;
 }
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
 
+.mainContainer > main {
+  height: 100%;
+}
+.mainContainer > footer {
+  background-color: darkcyan;
+  padding: 10px;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
