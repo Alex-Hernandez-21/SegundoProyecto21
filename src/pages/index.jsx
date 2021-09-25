@@ -1,7 +1,7 @@
-import CardRazasPerros from './components/CardRazasPerros';
-import logo from './media/logo.png';
-import borderCollie from "./media/borderCollie.jpg"
-import rhodesian from "./media/rhodesian.jpg"
+import CardRazasPerros from '../components/CardRazasPerros';
+import logo from '../media/logo.png';
+import borderCollie from "../media/borderCollie.jpg"
+import rhodesian from "../media/rhodesian.jpg"
 function Index(){
     return(
         <div>
